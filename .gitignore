@@ -1,0 +1,13 @@
+*~
+*.class
+.classpath
+.project
+.ijwb
+.settings
+target
+*.iml
+dependency-reduced-pom.xml
+.idea
+*.DS_Store
+
+/bin/
